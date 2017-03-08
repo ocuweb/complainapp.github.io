@@ -41,7 +41,7 @@
         }
 
         header{
-            display:none !important;
+            display:block !important;
         }
         /*menu izquierdo tablet*/
         .grid-col.grid-one-quarter.grid-pull-three-quarters{
