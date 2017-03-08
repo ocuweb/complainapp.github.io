@@ -5,7 +5,9 @@
         body {
           background: #f8f8f8;
         }
-
+        body {
+          background: blue;
+        }
         .footer .footer__top{
             display: none !important;
         }
