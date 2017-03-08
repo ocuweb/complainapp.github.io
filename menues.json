@@ -1,5 +1,4 @@
-{
-  "items": [
+[
     {"title":"Todos","url":"https://www.ocu.org/toda-la-informacion?type=comparators-and-calculators"},
     {"title":"Alimentacion","url":"https://www.ocu.org/toda-la-informacion?type=comparators-and-calculators&cat=alimentacion"},
     {"title":"Coches","url":"https://www.ocu.org/toda-la-informacion?type=comparators-and-calculators&cat=coches"},
@@ -10,6 +9,4 @@
     {"title":"Consumo y familia","url":"https://www.ocu.org/toda-la-informacion?type=comparators-and-calculators&cat=consumo-familia"},
     {"title":"Electrodomesticos","url":"https://www.ocu.org/toda-la-informacion?type=comparators-and-calculators&cat=electrodomesticos"},
     {"title":"Vivienda y energia","url":"https://www.ocu.org/toda-la-informacion?type=comparators-and-calculators&cat=vivienda-y-energia"}
-  ]
-}
-
+]
