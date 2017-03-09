@@ -1,0 +1,12 @@
+
+[
+    {"title":"Todos","url":"https://www.ocu.org/toda-la-informacion?type=comparators-and-calculators"},
+    {"title":"eletrodomesticos","url":"https://www.ocu.org/toda-la-informacion?type=comparators-and-calculators&cat=eletrodomesticos"},
+    {"title":"tecnologia","url":"https://www.ocu.org/toda-la-informacion?type=comparators-and-calculators&cat=tecnologia"},
+    {"title":"dinheiro","url":"https://www.ocu.org/toda-la-informacion?type=comparators-and-calculators&cat=dinheiro"},
+    {"title":"casa-energia","url":"https://www.ocu.org/toda-la-informacion?type=comparators-and-calculators&cat=casa-energia"},
+    {"title":"auto","url":"https://www.ocu.org/toda-la-informacion?type=comparators-and-calculators&cat=auto"},
+    {"title":"alimentacao","url":"https://www.ocu.org/toda-la-informacion?type=comparators-and-calculators&cat=alimentacao"},
+    {"title":"saude","url":"https://www.ocu.org/toda-la-informacion?type=comparators-and-calculators&cat=saude"},
+    {"title":"familia-consumo","url":"https://www.ocu.org/toda-la-informacion?type=comparators-and-calculators&cat=familia-consumo"}
+]
