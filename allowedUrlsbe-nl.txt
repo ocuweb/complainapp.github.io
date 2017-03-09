@@ -1,0 +1,1 @@
+http(.)*test-aankoop.be\/(.)*\/(.)*\/test\/(.)* http(.)*login.test-aankoop.be(.)* http(.)*facebook.com(.)* http(.)*twitter.com(.)*
