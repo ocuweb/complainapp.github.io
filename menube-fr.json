@@ -1,0 +1,11 @@
+[
+    {"title":"All","url":"https://www.test-achats.be/explorer?type=comparators-and-calculators"},
+    {"title":"electromenager","url":"https://www.test-achats.be/explorer?type=comparators-and-calculators&cat=electromenager"},
+    {"title":"hightech","url":"https://www.test-achats.be/explorer?type=comparators-and-calculators&cat=hightech"},
+    {"title":"maison-energie","url":"https://www.test-achats.be/explorer?type=comparators-and-calculators&cat=maison-energie"},
+    {"title":"mobilite","url":"https://www.test-achats.be/explorer?type=comparators-and-calculators&cat=mobilite"},
+    {"title":"argent","url":"https://www.test-achats.be/explorer?type=comparators-and-calculators&cat=argent"},
+    {"title":"sante","url":"https://www.test-achats.be/explorer?type=comparators-and-calculators&cat=sante"},
+    {"title":"famille-prive","url":"https://www.test-achats.be/explorer?type=comparators-and-calculators&cat=alimentation"},
+    {"title":"All","url":"https://www.test-achats.be/explorer?type=comparators-and-calculators&cat=famille-prive"},
+]
