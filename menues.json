@@ -9,7 +9,8 @@
     {"title":"Consumo y familia","url":"https://www.ocu.org/toda-la-informacion?type=comparators-and-calculators&cat=consumo-familia"},
     {"title":"Electrodomesticos","url":"https://www.ocu.org/toda-la-informacion?type=comparators-and-calculators&cat=electrodomesticos"},
     {"title":"Vivienda y energia","url":"https://www.ocu.org/toda-la-informacion?type=comparators-and-calculators&cat=vivienda-y-energia"},
-  {"title":"rate us","url":"https://play.google.com/store/apps/details?id=es.ocu"}
+  {"title":"Rate us","url":"https://play.google.com/store/apps/details?id=es.ocu&isexternal=true"},
+      {"title":"Call us","url":"tel:666666666"},
 ]
 
 
