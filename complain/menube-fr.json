@@ -1,0 +1,13 @@
+[
+    {"title":"UNE PLAINTE?", "url":"section"},
+    {"title":"Introduire une plainte avec Test-Achats","url": "https://www.test-achats.be/plainte"},
+    {"title":"Envoyez directement une plainte à une entreprise","url": "https://www.test-achats.be/plainte/adresser-votre-plainte-directement-a-l-entreprise"},
+    {"title":"Faites intervenir nos 50 avocats","url": "https://www.test-achats.be/plainte/recevez-l-aide-de-nos-50-avocats"},
+    {"title":"Toutes les plaintes","url": "https://www.test-achats.be/plainte/plaintes-publiques"},
+    {"title":"Mes plaintes","url": "https://www.test-achats.be/plainte/mes-plaintes"},
+    {"title":"Point de contact \"trop vite usé\"","url": "https://www.test-achats.be/trop-vite-use"},
+    {"title":"CONTACT", "url":"section"},
+    {"title":"Contactez-nous\n +32 2 542 35 55","url": "tel:+3225423555"}
+]
+
+
