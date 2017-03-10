@@ -4,10 +4,9 @@
     {"title":"Scrivi all'azienda","url": "https://www.altroconsumo.it/reclamar/reclamare/contatta-l-azienda"},
     {"title":"Richiedi l'aiuto dei nostri 80 avvocati","url": "https://www.altroconsumo.it/reclamare/contatta-i-nostri-avvocati"},
     {"title":"La bacheca dei reclami","url": "https://www.altroconsumo.it/reclamare/bacheca-dei-reclami"},
-    {"title":"I miei reclami","url": "https://www.altroconsumo.it/reclamare/i-miei-reclami"}
-
-    //{"title":"CONTACTO", "url":"section"},
-    //{"title":"913009151","url": "tel:+34913009151"},
+    {"title":"I miei reclami","url": "https://www.altroconsumo.it/reclamare/i-miei-reclami"},
+    {"title":"CONTACTO", "url":"section"},
+    {"title":"913009151","url": "tel:+34913009151"}
 
 ]
 

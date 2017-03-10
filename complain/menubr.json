@@ -5,8 +5,7 @@
     {"title":"Pedir a intervenção de nossos especialistas","url": "https://www.proteste.org.br/reclame/criar-reclamacao-advogados"},
     {"title":"Reclamações Públicas","url": "https://www.proteste.org.br/reclame/lista-de-reclamacoes-publicas"},
     {"title":"Minhas Reclamações","url": "https://www.proteste.org.br/reclame/minhas-reclamacoes"},
-
-    //{"title":"CONTACTE-NOS", "url":"section"},
-    //{"title":"218410858","url": "tel:+218410858"},
-    //{"title":"808200145 (REDE FIXA)","url": "tel:+808200145"},
+    {"title":"CONTACTE-NOS", "url":"section"},
+    {"title":"218410858","url": "tel:+218410858"},
+    {"title":"808200145 (REDE FIXA)","url": "tel:+808200145"}
 ]
