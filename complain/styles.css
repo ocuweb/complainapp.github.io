@@ -5,9 +5,7 @@
         body {
           background: #f8f8f8;
         }
-        body {
-          background: red;
-        }
+
         .footer .footer__top{
             display: none !important;
         }
@@ -37,13 +35,13 @@
         .js-browsepages .navmenu .desktop-only {
             display: none !important;
         }
-        .navmenu{
-            display:none !important;
-        }
+
         .js-browsepages .hide-on-desktop {
             display: none !important;
         }
-
+        .navmenu{
+            display:none !important;
+        }
         header{
             display:none !important;
         }
