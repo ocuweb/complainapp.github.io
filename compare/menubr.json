@@ -1,12 +1,13 @@
-
 [
-    {"title":"Todos","url":"https://www.ocu.org/toda-la-informacion?type=comparators-and-calculators"},
-    {"title":"eletrodomesticos","url":"https://www.ocu.org/toda-la-informacion?type=comparators-and-calculators&cat=eletrodomesticos"},
-    {"title":"tecnologia","url":"https://www.ocu.org/toda-la-informacion?type=comparators-and-calculators&cat=tecnologia"},
-    {"title":"dinheiro","url":"https://www.ocu.org/toda-la-informacion?type=comparators-and-calculators&cat=dinheiro"},
-    {"title":"casa-energia","url":"https://www.ocu.org/toda-la-informacion?type=comparators-and-calculators&cat=casa-energia"},
-    {"title":"auto","url":"https://www.ocu.org/toda-la-informacion?type=comparators-and-calculators&cat=auto"},
-    {"title":"alimentacao","url":"https://www.ocu.org/toda-la-informacion?type=comparators-and-calculators&cat=alimentacao"},
-    {"title":"saude","url":"https://www.ocu.org/toda-la-informacion?type=comparators-and-calculators&cat=saude"},
-    {"title":"familia-consumo","url":"https://www.ocu.org/toda-la-informacion?type=comparators-and-calculators&cat=familia-consumo"}
+    {"title":"Todos","url":"https://www.proteste.org.br/todos-os-conteudos?type=comparators-and-calculators"},
+    {"title":"eletronicos","url":"https://www.proteste.org.br/todos-os-conteudos?type=comparators-and-calculators&cat=eletronicos"},
+    {"title":"eletrodomesticos","url":"https://www.proteste.org.br/todos-os-conteudos?type=comparators-and-calculators&cat=eletrodomesticos"},
+    {"title":"alimentacao","url":"https://www.proteste.org.br/todos-os-conteudos?type=comparators-and-calculators&cat=alimentacao"},
+    {"title":"suas-contas","url":"https://www.proteste.org.br/todos-os-conteudos?type=comparators-and-calculators&cat=suas-contas"},
+    {"title":"seguros","url":"https://www.proteste.org.br/todos-os-conteudos?type=comparators-and-calculators&cat=seguros"},
+    {"title":"seus-direitos","url":"https://www.proteste.org.br/todos-os-conteudos?type=comparators-and-calculators&cat=seus-direitos"},
+    {"title":"carros-e-mobilidade","url":"https://www.proteste.org.br/todos-os-conteudos?type=comparators-and-calculators&cat=carros-e-mobilidade"},
+    {"title":"dinheiro","url":"https://www.proteste.org.br/todos-os-conteudos?type=comparators-and-calculators&cat=dinheiro"},
+    {"title":"familia","url":"https://www.proteste.org.br/todos-os-conteudos?type=comparators-and-calculators&cat=familia"},	
+    {"title":"saude-e-bem-estar","url":"https://www.proteste.org.br/todos-os-conteudos?type=comparators-and-calculators&cat=saude-e-bem-estar"}
 ]
