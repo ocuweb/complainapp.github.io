@@ -1,4 +1,4 @@
-alert("online guay2")
+alert("online guay2");
 (function() {
   //fix PS home
   alert("cargado");
