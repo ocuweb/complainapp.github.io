@@ -49,6 +49,10 @@
         .grid-col.grid-one-quarter.grid-pull-three-quarters{
             display:none !important;
         }
+
+        [data-selector="aline-content-link"].cc-preview {
+           display: none;
+        }
         .grid-col.grid-three-quarters.grid-push-one-quarter{
             left:0px !important;
         }
