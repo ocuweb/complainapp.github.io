@@ -24,7 +24,12 @@
         .cookie-banner {
             display: none !important;
         }
-
+      .conversion-sticky{
+         display:none !important;
+      }
+        main{
+             margin-top: 0px !important;
+        }
         [data-type="PsfTeasersController"] {
             display: none !important;
         }
