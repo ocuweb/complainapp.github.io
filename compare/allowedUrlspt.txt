@@ -1,1 +1,2 @@
-http(.)*deco.proteste.pt\/(.)*\/(.)*\/test\/(.)* http(.)*login.deco.proteste.pt(.)* http(.)*facebook.com(.)* http(.)*twitter.com(.)*
+http(.)*deco.proteste.pt\/(.)*\/(.)*\/testes\/(.)* http(.)*login.deco.proteste.pt(.)* http(.)*facebook.com(.)* http(.)*twitter.com(.)*
+
