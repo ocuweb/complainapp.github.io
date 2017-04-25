@@ -24,9 +24,11 @@
         .cookie-banner {
             display: none !important;
         }
+/*
       .conversion-sticky{
          display:none !important;
       }
+*/
         main{
              margin-top: 0px !important;
         }
@@ -35,6 +37,9 @@
         }
         #consomaster-portlet{
             display:none !important;
+        }
+        .cookie-banner{
+               display:none !important;
         }
         /*home compareapp*/
         .js-browsepages .navmenu .desktop-only {
