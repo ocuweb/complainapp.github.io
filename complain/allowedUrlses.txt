@@ -1,1 +1,1 @@
-http(.)*ocu.org\/reclamar\/(.)* http(.)*login.ocu.org(.)* http(.)*facebook.com(.)* http(.)*twitter.com(.)*
+http(.)*ocu.org\/reclamar(.)* http(.)*login.ocu.org(.)* http(.)*facebook.com(.)* http(.)*twitter.com(.)*
