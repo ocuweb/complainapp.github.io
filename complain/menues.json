@@ -6,7 +6,7 @@
     {"title":"Reclamaciones públicas","url": "https://www.ocu.org/reclamar/lista-reclamaciones-publicas"},
     {"title":"Mis reclamaciones","url": "https://www.ocu.org/reclamar/mis-reclamaciones"},
     {"title":"AREA DE SOCIOS", "url":"section"},
-    {"title":"¿Eres socio? Entra","url":"https://login.ocu.org/?wa=wsignin1.0&wtrealm=eur%3a%2f%2feuroconsumers.pro.alinesc.es-es%2f&wreply=https%3a%2f%2fwww.ocu.org%2freclamar"},
+    {"title":"¿Eres socio? Entra","url":"https://login.ocu.org/?wa=wsignin1.0&wtrealm=eur%3a%2f%2feuroconsumers.pro.alinesc.es-es%2f&wreply=https%3a%2f%2fwww.ocu.org%2freclamar%2f"},
     {"title":"CONTACTO", "url":"section"},
     {"title":"913009151","url": "tel:+34913009151"},
     {"title":"Danos 5 estrellas","url":"market://details?id=es.ocu"}
