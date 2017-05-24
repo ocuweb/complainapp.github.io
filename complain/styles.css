@@ -62,4 +62,8 @@
         .grid-col.grid-three-quarters.grid-push-one-quarter{
             left:0px !important;
         }
+
+        .exclude-from-print{
+         display:none;   
+        }
     </style>
