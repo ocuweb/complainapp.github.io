@@ -1,14 +1,14 @@
 [
     {"title":"Todos os temas","url":"https://www.deco.proteste.pt/todos-conteudos?type=comparators-and-calculators"},
     {"title":"Login","url":"https://login.deco.proteste.pt/?wa=wsignin1.0&wtrealm=eur%3a%2f%2feuroconsumers.pro.alinesc.pt-pt%2f&wreply=https%3a%2f%2fwww.deco.proteste.pt%2ftodos-conteudos%3ftype%3dcomparators-and-calculators"},
-    {"title":"eletrodomesticos","url":"https://www.deco.proteste.pt/todos-conteudos?type=comparators-and-calculators&cat=eletrodomesticos"},
-    {"title":"tecnologia","url":"https://www.deco.proteste.pt/todos-conteudos?type=comparators-and-calculators&cat=tecnologia"},
-    {"title":"dinheiro","url":"https://www.deco.proteste.pt/todos-conteudos?type=comparators-and-calculators&cat=dinheiro"},
-    {"title":"casa-energia","url":"https://www.deco.proteste.pt/todos-conteudos?type=comparators-and-calculators&cat=casa-energia"},
-    {"title":"auto","url":"https://www.deco.proteste.pt/todos-conteudos?type=comparators-and-calculators&cat=auto"},
-    {"title":"alimentacao","url":"https://www.deco.proteste.pt/todos-conteudos?type=comparators-and-calculators&cat=alimentacao"},
-    {"title":"saude","url":"https://www.deco.proteste.pt/todos-conteudos?type=comparators-and-calculators&cat=saude"},
-    {"title":"familia-consumo","url":"https://www.deco.proteste.pt/todos-conteudos?type=comparators-and-calculators&cat=familia-consumo"}
+    {"title":"Eletrodomesticos","url":"https://www.deco.proteste.pt/todos-conteudos?type=comparators-and-calculators&cat=eletrodomesticos"},
+    {"title":"Tecnologia","url":"https://www.deco.proteste.pt/todos-conteudos?type=comparators-and-calculators&cat=tecnologia"},
+    {"title":"Dinheiro","url":"https://www.deco.proteste.pt/todos-conteudos?type=comparators-and-calculators&cat=dinheiro"},
+    {"title":"Casa e energia","url":"https://www.deco.proteste.pt/todos-conteudos?type=comparators-and-calculators&cat=casa-energia"},
+    {"title":"Auto","url":"https://www.deco.proteste.pt/todos-conteudos?type=comparators-and-calculators&cat=auto"},
+    {"title":"Alimentacao","url":"https://www.deco.proteste.pt/todos-conteudos?type=comparators-and-calculators&cat=alimentacao"},
+    {"title":"Saude","url":"https://www.deco.proteste.pt/todos-conteudos?type=comparators-and-calculators&cat=saude"},
+    {"title":"Familia e consumo","url":"https://www.deco.proteste.pt/todos-conteudos?type=comparators-and-calculators&cat=familia-consumo"}
 ]
 
 
