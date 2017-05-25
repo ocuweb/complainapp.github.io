@@ -1,5 +1,6 @@
 [
     {"title":"All","url":"https://www.test-aankoop.be/overzichtspagina?type=comparators-and-calculators"},
+    {"title":"Login","url":"https://login.test-aankoop.be/?wa=wsignin1.0&wtrealm=eur%3a%2f%2feuroconsumers.pro.alinesc.nl-be%2f&wreply=https%3a%2f%2fwww.test-aankoop.be%2foverzichtspagina%3ftype%3dcomparators-and-calculators"},
     {"title":"huishoudelektro","url":"https://www.test-aankoop.be/overzichtspagina?type=comparators-and-calculators&cat=huishoudelektro"},
     {"title":"hightech","url":"https://www.test-aankoop.be/overzichtspagina?type=comparators-and-calculators&cat=hightech"},
     {"title":"woning-energie","url":"https://www.test-aankoop.be/overzichtspagina?type=comparators-and-calculators&cat=woning-energie"},
