@@ -1,5 +1,6 @@
 [
     {"title":"Tutto","url":"https://www.altroconsumo.it/vetrina?type=comparators-and-calculators"},
+    {"title":"Login","url":"https://login.altroconsumo.it/?wa=wsignin1.0&wtrealm=eur%3a%2f%2feuroconsumers.pro.alinesc.it-it%2f&wreply=https%3a%2f%2fwww.altroconsumo.it%2fvetrina%3ftype%3dcomparators-and-calculators"},
     {"title":"elettrodomestici","url":"https://www.altroconsumo.it/vetrina?type=comparators-and-calculators&cat=elettrodomestici"},
     {"title":"casa-energia","url":"https://www.altroconsumo.it/vetrina?type=comparators-and-calculators&cat=casa-energia"},
     {"title":"hi-tech","url":"https://www.altroconsumo.it/vetrina?type=comparators-and-calculators&cat=hi-tech"},
