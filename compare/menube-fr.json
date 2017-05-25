@@ -1,5 +1,6 @@
 [
     {"title":"All","url":"https://www.test-achats.be/explorer?type=comparators-and-calculators"},
+    {"title":"Login","url":"https://login.test-achats.be/?wa=wsignin1.0&wtrealm=eur%3a%2f%2feuroconsumers.pro.alinesc.fr-be%2f&wreply=https%3a%2f%2fwww.test-achats.be%2fexplorer%3ftype%3dcomparators-and-calculators"},
     {"title":"electromenager","url":"https://www.test-achats.be/explorer?type=comparators-and-calculators&cat=electromenager"},
     {"title":"hightech","url":"https://www.test-achats.be/explorer?type=comparators-and-calculators&cat=hightech"},
     {"title":"maison-energie","url":"https://www.test-achats.be/explorer?type=comparators-and-calculators&cat=maison-energie"},
