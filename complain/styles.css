@@ -66,4 +66,7 @@
         .exclude-from-print{
          display:none;   
         }
+no-hide{
+   display:block !important;  
+}
     </style>
