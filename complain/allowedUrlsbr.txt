@@ -1,1 +1,1 @@
-http(.)*proteste.org.br\/reclame\/(.)* http(.)*login.proteste.org.br(.)* http(.)*facebook.com(.)* http(.)*twitter.com(.)*
+http(.)*proteste.org.br\/reclame(.)* http(.)*login.proteste.org.br(.)* http(.)*facebook.com(.)* http(.)*twitter.com(.)*
