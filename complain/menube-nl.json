@@ -1,13 +1,15 @@
 [
     {"title":"Een klacht?", "url":"section"},
     {"title":"Klacht indienen via Test-Aankoop","url": "https://www.test-aankoop.be/klagen"},
-    {"title":"Stuur uw klacht rechtstreeks naar een bedrijf","url": "https://www.test-aankoop.be/klagen/uw-klacht-rechtstreeks-naar-een-bedrijf-sturen"},
-    {"title":"Laat u bijstaan door onze 50 advocaten","url": "https://www.test-aankoop.be/klagen/laat-u-bijstaan-door-onze-50-advocaten"},
     {"title":"Alle klachten","url": "https://www.test-aankoop.be/klagen/publieke-klachten"},
     {"title":"Mijn klachten","url": "https://www.test-aankoop.be/klagen/mijn-klachten"},
     {"title":"Meldpunt \"te rap kapot\"","url": "https://www.test-aankoop.be/te-rap-kapot"},
+       {"title":"MEMBER SECTION", "url":"section"},
+    {"title":"Login","url":"https://login.test-aankoop.be/?wa=wsignin1.0&wtrealm=eur%3a%2f%2feuroconsumers.pro.alinesc.nl-be%2f&wreply=https%3a%2f%2fwww.test-aankoop.be%2fklagen"},
+
     {"title":"CONTACT", "url":"section"},
-    {"title":"Contacteer ons\n +3225423232","url": "tel:+3225423232"}
+    {"title":"Contacteer ons\n +3225423232","url": "tel:+3225423232"},
+       {"title":"Rate us","url":"market://details?id=be.testachats.maitreachat"}
 ]
 
 
