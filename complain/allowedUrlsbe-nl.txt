@@ -1,1 +1,1 @@
-http(.)*test-aankoop.be\/klagen\/(.)* http(.)*login.test-aankoop.be(.)* http(.)*facebook.com(.)* http(.)*twitter.com(.)*
+http(.)*test-aankoop.be\/klagen(.)* http(.)*login.test-aankoop.be(.)* http(.)*facebook.com(.)* http(.)*twitter.com(.)*
