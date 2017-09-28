@@ -1,12 +1,14 @@
 [
     {"title":"RECLAMA", "url":"section"},
     {"title":"Reclama Facile","url": "https://www.altroconsumo.it/reclamare"},
-    {"title":"Scrivi all'azienda","url": "https://www.altroconsumo.it/reclamar/reclamare/contatta-l-azienda"},
-    {"title":"Richiedi l'aiuto dei nostri 80 avvocati","url": "https://www.altroconsumo.it/reclamare/contatta-i-nostri-avvocati"},
     {"title":"La bacheca dei reclami","url": "https://www.altroconsumo.it/reclamare/bacheca-dei-reclami"},
     {"title":"I miei reclami","url": "https://www.altroconsumo.it/reclamare/i-miei-reclami"},
+   {"title":"MEMBER SECTION", "url":"section"},
+    {"title":"Login","url":"https://login.altroconsumo.it/?wa=wsignin1.0&wtrealm=eur%3a%2f%2feuroconsumers.pro.alinesc.it-it%2f&wreply=https%3a%2f%2fwww.altroconsumo.it%2freclamare"},
+
     {"title":"CONTACTO", "url":"section"},
-    {"title":"913009151","url": "tel:+34913009151"}
+    {"title":"913009151","url": "tel:+34913009151"},
+     {"title":"Rate us","url":"market://details?id=it.altroconsumo.youfind"}
 
 ]
 
