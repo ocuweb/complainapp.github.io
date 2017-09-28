@@ -1,10 +1,9 @@
 [
     {"title":"RECLAMA", "url":"section"},
     {"title":"Reclama con OCU","url": "https://www.ocu.org/reclamar"},    
-    {"title":"Reclama a la empresa","url": "https://www.ocu.org/reclamar/reclamar-directamente-empresa"},
-    {"title":"Recurre a más de 100 abogados","url": "https://www.ocu.org/reclamar/recurrir-a-abogados"},
     {"title":"Reclamaciones públicas","url": "https://www.ocu.org/reclamar/lista-reclamaciones-publicas"},
     {"title":"Mis reclamaciones","url": "https://www.ocu.org/reclamar/mis-reclamaciones"},
+    {"title":"Modelos de reclamación","url": "https://www.ocu.org/toda-la-informacion?type=standard-letters"},
     {"title":"AREA DE SOCIOS", "url":"section"},
     {"title":"¿Eres socio? Entra","url":"https://login.ocu.org/?wa=wsignin1.0&wtrealm=eur%3a%2f%2feuroconsumers.pro.alinesc.es-es%2f&wreply=https%3a%2f%2fwww.ocu.org%2freclamar%2F"},
     {"title":"CONTACTO", "url":"section"},
