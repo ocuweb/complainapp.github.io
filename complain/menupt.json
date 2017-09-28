@@ -6,7 +6,11 @@
     {"title":"Pedir a intervenção dos nossos 50 juristas","url": "https://www.deco.proteste.pt/reclamar/pedir-a-intervencao-dos-nossos-50-juristas"},
     {"title":"Todas as reclamações","url": "https://www.deco.proteste.pt/reclamar/todas-as-reclamacoes"},
     {"title":"As minhas reclamações","url": "https://www.deco.proteste.pt/reclamar/as-minhas-reclamacoes"},
+      {"title":"MEMBER SECTION", "url":"section"},
+    {"title":"Login","url":"https://login.deco.proteste.pt/?wa=wsignin1.0&wtrealm=eur%3a%2f%2feuroconsumers.pro.alinesc.pt-pt%2f&wreply=https%3a%2f%2fwww.deco.proteste.pt%2freclamar"},
+
     {"title":"CONTACTE-NOS", "url":"section"},
     {"title":"218410858","url": "tel:+218410858"},
-    {"title":"808200145 (REDE FIXA)","url": "tel:+808200145"}
+    {"title":"808200145 (REDE FIXA)","url": "tel:+808200145"},
+    {"title":"Rate us","url":"market://details?id=pt.euroconsumers.ProtestAqui"}
 ]
