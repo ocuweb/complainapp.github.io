@@ -8,6 +8,9 @@
     {"title":"¿Eres socio? Entra","url":"https://login.ocu.org/?wa=wsignin1.0&wtrealm=eur%3a%2f%2feuroconsumers.pro.alinesc.es-es%2f&wreply=https%3a%2f%2fwww.ocu.org%2freclamar%2F"},
     {"title":"CONTACTO", "url":"section"},
     {"title":"913009151","url": "tel:+34913009151"},
+    {"title":"LEGALES", "url":"section"},
+    {"title":"Política de Privacidad","url": "https://www.ocu.org/apps/protestapp/politica-privacidad"},
+    {"title":"Condiciones de uso","url": "https://www.ocu.org/apps/protestapp/condiciones-de-uso"},
     {"title":"Danos 5 estrellas","url":"market://details?id=es.ocu"}
 ]
 
